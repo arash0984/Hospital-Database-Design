@@ -1,6 +1,6 @@
 # Hospital Database Design Project
 
-[![Diagram 1](./Diagram1.png)]
+[![Diagram 1](./Diagram1.PNG)]
 
 This project showcases the design and implementation of a Hospital Database using SQL. It includes the following components:
 
