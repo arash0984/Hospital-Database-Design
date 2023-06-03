@@ -1,5 +1,7 @@
 # Hospital Database Design Project
 
+![Diagram 1](Diagram1.png)
+
 This project showcases the design and implementation of a Hospital Database using SQL. It includes the following components:
 
 - **application.c**: This file contains the C code for an application that interacts with the Hospital Database. It provides various functionalities for managing patient records, employee details, medical equipment, appointments, and billing.
